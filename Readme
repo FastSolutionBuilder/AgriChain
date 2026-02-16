@@ -1,27 +1,12 @@
-# StellarTech
-
-StellarTech is a financial platform built on the Stellar blockchain that enables **mass disbursements** and **AI-assisted investment management**. The system is designed to onboard users with no prior crypto experience and provide access to payments and tokenized real-world assets (RWAs).
-
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Solution](#solution)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Environment Variables](#environment-variables)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Documentation](#documentation)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+ #  StellarTech
+  
+StellarTech is a financial platform built on the Stellar blockchain that enables **mass disbursements** and **AI-assisted investment management**.
+The system is designed to onboard users with no prior crypto experience and provide access to payments and tokenized real-world assets (RWAs).
 
 ## Overview
 
-StellarTech combines bulk payment infrastructure with portfolio management tooling on Stellar Soroban. Organizations can distribute funds at scale, while recipients gain access to wallets and investment products without requiring traditional banking relationships.
+StellarTech combines bulk payment infrastructure with portfolio management tooling on Stellar Soroban. 
+Organizations can distribute funds at scale, while recipients gain access to wallets and investment products without requiring traditional banking relationships.
 
 Key goals:
 - Fast, low-cost cross-border payments
